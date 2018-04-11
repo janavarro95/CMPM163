@@ -1,2 +1,11 @@
 # CMPM163
-CMPM 163 work
+
+[Link to Website main page.](https://joshuanavarro.github.io/CMPM163/)
+
+[Link to HomeworkPacket1](HomeworkPacket1/index.html)
+
+[Link to HomeworkPacket2](HomeworkPacket2/index.html)
+
+[Link to HomeworkPacket3](HomeworkPacket3/index.html)
+
+[Link Final Project](FinalProject/index.html)
